@@ -11,3 +11,7 @@ docker ps -> retorna as imagens que estão rodando
 docker ps -a -> Todas as imagens do docker
 docker start [ nome da imagem ] => Para subir a imagem que você precisa
 ```
+
+## Instalação;
+
+Fazer a instalação do **Robo 3T** ajuda na visualização dos arquivos criados dentro do MongoDB
