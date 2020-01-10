@@ -12,6 +12,17 @@ docker ps -a -> Todas as imagens do docker
 docker start [ nome da imagem ] => Para subir a imagem que você precisa
 ```
 
-## Instalação;
+## Instalação
 
 Fazer a instalação do **Robo 3T** ajuda na visualização dos arquivos criados dentro do MongoDB
+
+
+# Pacotes
+
+Os pacotes usado para essa aplicação foram: 
+
+- express
+- nodemon -D
+- mongoose
+- cors
+- mongoose-paginate
